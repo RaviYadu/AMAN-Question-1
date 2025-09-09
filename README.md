@@ -69,7 +69,7 @@ Build YOUR EC2 ubuntu with will script
     # Enable and start Docker
     systemctl enable docker
     systemctl start docker
-
+```
 ---
 
 ## ▶️ How to Run
