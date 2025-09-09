@@ -17,25 +17,25 @@ It was built as part of a DevOps technical task.
 ---
 
 ## 📂 Project Structure
-Project-Web-1/
-│── backend/ # Node.js API service
-│ ├── Dockerfile
-│ ├── package.json
-│ └── server.js
-│
-│── frontend/ # ReactJS frontend
-│ ├── Dockerfile
-│ ├── package.json
-│ ├── public/index.html
-│ └── src/
-│ ├── App.js
-│ └── index.js
-│
-│── nginx/ # Reverse proxy config
-│ └── nginx.conf
-│
-│── docker-compose.yml
-│── README.md
+        Project-Web-1/
+        │── backend/ # Node.js API service
+        │ ├── Dockerfile
+        │ ├── package.json
+        │ └── server.js
+        │
+        │── frontend/ # ReactJS frontend
+        │ ├── Dockerfile
+        │ ├── package.json
+        │ ├── public/index.html
+        │ └── src/
+        │ ├── App.js
+        │ └── index.js
+        │
+        │── nginx/ # Reverse proxy config
+        │ └── nginx.conf
+        │
+        │── docker-compose.yml
+        │── README.md
 
 
 
